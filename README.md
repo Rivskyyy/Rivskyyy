@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taras Bandrivskyi</h1>
+
 ![](https://github.com/Rivskyyy/Rivskyyy/blob/main/93f04b4b1103cc4e6410bb4f831acb6c.gif)
 
 <h3 align="left">Languages and Tools:</h3>
